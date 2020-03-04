@@ -29,37 +29,6 @@ body {
   background-color: #000;
 }
 
-.darkness {
-  color: #333;
-}
-
-.lightness {
-  color: #fff;
-}
-
-.light {
-  font-weight: bold;
-  transition: all 0.2s ease-in-out;
-}
-
-.glow:hover {
-  color: #fff;
-  text-shadow: 0 5px 15px #fff;
-}
-
-.dark {
-  font-weight: bold;
-}
-
-.cannot {
-  font-weight: normal;
-}
-
-.author {
-  font-family: Montserrat, sans-serif;
-  font-weight: normal;
-}
-
 article,
 aside,
 details,
