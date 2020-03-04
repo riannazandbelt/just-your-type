@@ -7,8 +7,8 @@
 }
 
 .light {
-  font-weight: bold;
   transition: all .2s ease-in-out;
+  font-family: "Londrina Outline", cursive;
 }
 
 .glow:hover {
@@ -17,15 +17,9 @@
 }
 
 .dark {
-  font-weight: bold;
   text-decoration: line-through;
-}
-
-.cannot {
-  font-weight: normal;
 }
 
 .author {
   font-family: Montserrat, sans-serif;
-  font-weight: normal;
 }
