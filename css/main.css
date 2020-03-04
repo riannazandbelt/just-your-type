@@ -16,7 +16,8 @@
   text-shadow: 0 5px 15px #fff;
 }
 
-.dark {
+.dark,
+.cannot {
   text-decoration: line-through;
 }
 
